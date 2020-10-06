@@ -1,7 +1,7 @@
 # Hello
-Im in phisics and chemistry class and im bored.
+Im in physics and chemistry class, and im bored.
 
-## U can add someting whatever u whant.
+## U can add someting whatever u want.
 
 ## Im going to put things because im bored.
 
@@ -21,4 +21,4 @@ I use [Google](www.google.com).
 - [ ] Do homework.
 - [ ] Finish this.
 
-### I finish here. Add what u whant.
+### I finish here. Add what u want.
